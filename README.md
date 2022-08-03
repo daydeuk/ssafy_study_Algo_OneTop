@@ -118,9 +118,6 @@ SSAFY_광주_5반_복습 및 실습문제 스터디
 >|:-----:|
 >|[20057] 마법사 상어와 토네이도<br/>
 ----------
-
-<center><img src="https://user-images.githubusercontent.com/67217686/113573935-147ca900-9656-11eb-9649-0ef653fcb69b.jpeg" width="420" height="400"></center>
-
 [1759]:https://www.acmicpc.net/problem/1759
 [14889]:https://www.acmicpc.net/problem/14889
 [1107]:https://www.acmicpc.net/problem/1107
