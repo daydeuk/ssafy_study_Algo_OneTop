@@ -15,7 +15,7 @@ SSAFY_광주_5반_복습 및 실습문제 스터디
 ## 문제 선정
 |**주차**|**날짜**|**분류**|**공통문제**|**개별문제**|**진행 상황**
 |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1주차 | 22.08.04~</br>222.08.10 | Array / String </br> Stack / Queue |</br> [수열](https://www.acmicpc.net/problem/2559) </br> [괄호의 값](https://www.acmicpc.net/problem/2504)</br></br>| </br>[공주님의 정원](https://www.acmicpc.net/problem/2457) </br> [등수매기기](https://www.acmicpc.net/problem/2012) </br></br>| 진행중|
+| 1주차 | 22.08.04~</br>222.08.10 | Array / String </br> Stack / Queue |</br> [수열](https://www.acmicpc.net/problem/2559) </br> [괄호의 값](https://www.acmicpc.net/problem/2504)</br>[킹](https://www.acmicpc.net/problem/1063)</br></br>| </br>[공주님의 정원](https://www.acmicpc.net/problem/2457) </br> [등수매기기](https://www.acmicpc.net/problem/2012) </br></br>| 진행중|
 | 2주차 | 22.08.11~</br>222.08.17 | LinkedList / Tree  </br> 완전탐색 / 탐욕알고리즘 |  |  | 진행중|
 | 3주차 | 22.08.18~</br>222.08.25 | 탐욕알고리즘 / 분할정복 </br> 백트래킹 / 그래프 |  |  | 진행중|
 | 4주차 | 22.08.25~</br>222.08.31 | 그래프 / 문자열 |  |  | 진행중|
