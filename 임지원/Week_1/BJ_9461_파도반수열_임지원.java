@@ -24,7 +24,7 @@ public class BJ_9461_파도반수열_임지원 {
 
 		Scanner sc = new Scanner(System.in);
 		int tc = sc.nextInt();
-		int[] p = new int[101];		// 파도반 수열 P(N) = 나선에 있는 정삼각형의 변의 길이
+		long[] p = new long[101];		// 파도반 수열 P(N) = 나선에 있는 정삼각형의 변의 길이
 	
 		p[1] = 1;
 		p[2] = 1;
