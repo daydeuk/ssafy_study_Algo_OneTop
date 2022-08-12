@@ -13,16 +13,16 @@ public class BJ_14888_연산자끼워넣기_윤호운 {
 		for(int i=1;i<arr.length;i++) {
 			int oper = output[idx++];
 			switch(oper) {
-			case 0:
+			case 0: //+
 				result+=arr[i];
 				break;
-			case 1:
+			case 1: //-
 				result-=arr[i];
 				break;
-			case 2:
+			case 2: //*
 				result*=arr[i];
 				break;
-			case 3:
+			case 3: // 나누깅
 				result/=arr[i];
 				break;
 			}
@@ -32,6 +32,7 @@ public class BJ_14888_연산자끼워넣기_윤호운 {
 		if(result<min)
 			min=result;
 	}
+	//모든 연산자 순서 구하기 => 순열
 	public static void perm(int[] opers,int[]output,boolean[] visited, int depth,int n) {
 		if(depth==n) {
 		solve(output);	
@@ -60,7 +61,7 @@ public class BJ_14888_연산자끼워넣기_윤호운 {
 			arr[i] = Integer.parseInt(st.nextToken());
 		}
 		
-		//연산자 개수 넣을 배열
+		//연산자 넣을 
 		// + - x /
 		int[] opers = new int[n-1];
 		int idx=0;
