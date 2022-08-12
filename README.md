@@ -16,7 +16,7 @@ SSAFY_광주_5반_복습 및 실습문제 스터디
 |**주차**|**날짜**|**분류**|**공통문제**|**개별문제**|**진행 상황**
 |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1주차 | 22.08.04~</br>22.08.10 | Array / String </br> Stack / Queue |</br> [수열](https://www.acmicpc.net/problem/2559) </br> [괄호의 값](https://www.acmicpc.net/problem/2504)</br>[킹](https://www.acmicpc.net/problem/1063)</br>[파도반 수열](https://www.acmicpc.net/problem/9461)</br>[균형잡힌 세상](https://www.acmicpc.net/problem/4949)</br>| </br>[공주님의 정원](https://www.acmicpc.net/problem/2457) </br> [등수매기기](https://www.acmicpc.net/problem/2012) </br></br>| 완료 |
-| 2주차 | 22.08.11~</br>22.08.17 | LinkedList / Tree  </br> 완전탐색 / 탐욕알고리즘 | </br>[연산자 끼워넣기](https://www.acmicpc.net/problem/14888) </br>[스타트와 링크](https://www.acmicpc.net/problem/14889)</br>[이진 검색 트리](https://www.acmicpc.net/problem/5639) </br>[트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [순열의 순서](https://www.acmicpc.net/problem/1722) </br> [회의실 배정](https://www.acmicpc.net/problem/1931) | 진행중|
+| 2주차 | 22.08.11~</br>22.08.17 | LinkedList / Tree  </br> 완전탐색 / 탐욕알고리즘 | </br>[연산자 끼워넣기](https://www.acmicpc.net/problem/14888) </br>[스타트와 링크](https://www.acmicpc.net/problem/14889)</br>[이진 검색 트리](https://www.acmicpc.net/problem/5639) </br>[트리의 부모 찾기](https://www.acmicpc.net/problem/11725) </br> [회의실 배정](https://www.acmicpc.net/problem/1931)  | [순열의 순서](https://www.acmicpc.net/problem/1722)| 진행중|
 | 3주차 | 22.08.18~</br>22.08.25 | 탐욕알고리즘 / 분할정복 </br> 백트래킹 / 그래프 |  |  | 진행중|
 | 4주차 | 22.08.25~</br>22.08.31 | 그래프 / 문자열 |  |  | 진행중|
 
