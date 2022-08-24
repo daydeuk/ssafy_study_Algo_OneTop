@@ -29,7 +29,7 @@ public class SW_2115_벌꿀채취_윤호운 {
 		//조합 구했으면 
 		if(depth==r) {
 			int temp =0;
-      //수익구해서 
+      			//수익구해서 
 			for(int i=0;i<r;i++) {
 				temp+=Math.pow(output[i],2);
 			}
@@ -70,7 +70,7 @@ public class SW_2115_벌꿀채취_윤호운 {
 		      m = Integer.parseInt(st.nextToken()); //벌통 길이
 		      c = Integer.parseInt(st.nextToken()); //꿀 최대양
 		      
-          //수익값을 저장해놓을 sum 배열
+          	      //수익값을 저장해놓을 sum 배열
 		      //일꾼은 가로로 m길이만큼 꿀을 채취해야하기 때문에 수익값을 저장해놓을 sum 배열의 크기는  n행, n-m+1 열 
 		      int[][] sum = new int[n][n-m+1];
 		      map = new int[n][n];
@@ -91,7 +91,7 @@ public class SW_2115_벌꿀채취_윤호운 {
 		    	  for(int j=0;j<n-m+1;j++) {
 		    		  //해당 위치의 수익 저장해 놓기
 		    		  sum[i][j]=solve(j,j+m,i);
-              // i 행의 최대수익 업데이트
+              			  // i 행의 최대수익 업데이트
 		    		  if(sum[i][j]>max) { 
 		    			  max=sum[i][j]; 
 		    		  }
