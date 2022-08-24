@@ -3,6 +3,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+	/*
+	 * 벌꿀채취
+	 * : 2명이 각각 행에서 가로로  M개 만큼의 꿀통을 선택하고, 선택된 꿀통 중 C보다 같거나 작은 꿀통들을 선택해, 꿀의양^2씩 더한 값의 최대를 계산
+	 * 일단 한명의 꿀통 M개 선택 => 중복이 없게 다른 한명이 꿀통 M개 선택 => 선택된 것들 부분집합을 통해서 C보다 작은 꿀통들 계산 => 최대 계산
+	 */
+
 public class SW2115_벌꿀채취_신대득 {
 
 	static int N, M, C;
