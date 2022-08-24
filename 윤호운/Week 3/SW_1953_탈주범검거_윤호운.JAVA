@@ -33,8 +33,8 @@ public class Solution {
 	static int[] dj = {0,0,-1,1};
 	static boolean[][] visited;
 
-  //현재위치에서 갈수 있는 경우를 큐에삽입한 후 큐리턴
-  //주의: 현재상태뿐만아니라 다음상태도 살펴봐야댐 (EX: 현재가 상이면 다음은 하)
+  	//현재위치에서 갈수 있는 경우를 큐에삽입한 후 큐리턴
+  	//주의: 현재상태뿐만아니라 다음상태도 살펴봐야댐 (EX: 현재가 상이면 다음은 하)
 	public static Queue<Pos> check(Queue<Pos> q, int num, Pos now) {
 		int ni,nj;
 		//상
@@ -81,25 +81,25 @@ public class Solution {
 
 		boolean[][] visited = new boolean[n][m];
 		Queue<Pos> q = new LinkedList<Pos>();
-    //큐에 초기 위치 삽입.
+    		//큐에 초기 위치 삽입.
 		q.offer(new Pos(r,c,0));
 		
 		while(!q.isEmpty()) {
 			Pos now = q.poll();
-      //방문한거면 다음 꺼로
+      			//방문한거면 다음 꺼로
 			if(visited[now.i][now.j])
 				continue;
-      //현재시간이 주어진시간이면 탈출~!
+      			//현재시간이 주어진시간이면 탈출~!
 			if(now.time==l)
 				break;
       
 			//visited 처리를 방문하고나서 해줘야 답구할때 씽크가 맞음
 			visited[now.i][now.j]=true;
-      //큐에 넣을거 고르기~ check 호출
+      			//큐에 넣을거 고르기~ check 호출
 			q = check(q,map[now.i][now.j],now);
 		}
 		
-    //visited된거 개수가 답이다!
+    		//visited된거 개수가 답이다!
 		for(int i=0;i<n;i++) {
 			for(int j=0;j<m;j++) {
 				if(visited[i][j])
