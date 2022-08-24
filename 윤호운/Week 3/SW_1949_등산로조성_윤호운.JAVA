@@ -12,36 +12,36 @@ public class SW_1949_등산로조성_윤호운 {
 	static int ans;
 	
 	public static void dfs(int[][] map,int i, int j,boolean[][] visited,int n,int sum) {
-    //방문했으면 리턴
+    		//방문했으면 리턴
 		if(visited[i][j]) 
 			return;
-    //방문표시
+   		//방문표시
 		visited[i][j]=true;
-    //상하좌우 탐색
+    		//상하좌우 탐색
 		for(int k=0;k<4;k++) {
 			int t_i = i+di[k];
 			int t_j = j+dj[k];
 			if(t_i<0||t_j<0||t_i>=n||t_j>=n)
 				continue;
-      //길이가 현재보다 낮으면 sum+1해서 dfs호출
+      			//길이가 현재보다 낮으면 sum+1해서 dfs호출
 			if(map[t_i][t_j]<map[i][j])
 				dfs(map,t_i,t_j,visited,n,sum+1);
 		}
-    //방문취소 => 모든 경우 다해야바야대니까 취소처리~!
+    		//방문취소 => 모든 경우 다해야바야대니까 취소처리~!
 		visited[i][j]=false;
 		
-    // sum이 len보다 길면 
+    		// sum이 len보다 길면 
 		if(sum>len)
 			len=sum;
 	}
 	public static void solve(int[][] map,int max,int n) {
 		for(int i=0;i<n;i++) {
 			for(int j=0;j<n;j++) {
-        //최대 높이에서 
+        			//최대 높이에서 
 				if(map[i][j]==max) {
-          //dfs 호출
+          				//dfs 호출
 					dfs(map,i,j,new boolean[n][n],n,1);
-          //len이 ans보다 길면 정답 업데이트
+          				//len이 ans보다 길면 정답 업데이트
 					if(len>ans)
 						ans=len;
 				}
@@ -75,16 +75,16 @@ public class SW_1949_등산로조성_윤호운 {
 	    		for(int j=0;j<n;j++) {
 	    			int temp = map[i][j];
 	    			int cut=0;
-            //해당 위치에서 0~K 깊이까지 하나씩 깎아보기
+            			//해당 위치에서 0~K 깊이까지 하나씩 깎아보기
 	    			while(map[i][j]>=0) {
 	    				if(cut>k)
 	    					break;
 	    				map[i][j]=temp-cut++;
-              //깎 후 solve 호출
+             				//깎 후 solve 호출
 	    				solve(map, max,n);
 	    				
 	    			}
-            //깎은거 되돌려주기
+            			//깎은거 되돌려주기
 	    			map[i][j]=temp;
 	    		}
 	    	}
