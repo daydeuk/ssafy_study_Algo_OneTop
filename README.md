@@ -20,7 +20,7 @@ SSAFY_광주_5반_복습 및 실습문제 스터디
 | 3주차 | 22.08.18~</br>22.08.25 | 탐욕알고리즘 / 분할정복 </br> 백트래킹 / 그래프 |  [안전영역](https://www.acmicpc.net/problem/2468) </br>[등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq&categoryId=AV5PoOKKAPIDFAUq&categoryType=CODE&problemTitle=1949&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) </br>[벌꿀채취](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu&categoryId=AV5V4A46AdIDFAWu&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2) </br>[탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) </br>[수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq) | [치즈도둑](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWrDOdQqRCUDFARG) </br> [송현이의 우주여행](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWTUS1FaYaUDFAVT) </br> | 완료 |
 | 4주차 | 22.08.25~</br>22.08.31 | SW역량테스트(A형) 대비 | [codebattle 낚시터자리잡기] </br> [codebattle 헌터] </br>[codebattle Shuffle-O-Matic] | | 완료|
 | 5주차 | 22.09.14~</br>22.09.21 | 프로그래머스 고득점 kit (해시) | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) </br>[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)</br>[베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)  |  | 완료 |
-| 6주차 | 22.09.29~</br>22.10.06 | 2022 KAKAO BLIND RECRUITMENT | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) </br>[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)</br>[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)</br>[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)</br>[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)  |  | 진행중|
+| 6주차 | 22.09.29~</br>22.10.06 | 2022 KAKAO BLIND RECRUITMENT</br>모의 SW 역량테스트 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) </br>[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)</br>[SWEA 4008 숫자만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)</br>[SWEA 7793 오나의여신님](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWsBQpPqMNMDFARG)| [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)</br>[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)</br>[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)  | 진행중|
 ### 미해결 문제
 |**주차**|**날짜**|**분류**|**공통문제**|**개별문제**|**진행 상황**
 |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -64,9 +64,11 @@ SWEA 문제: D3_문제번호_문제명_교육생이름.java</br>
  | :----------------: |  :----------------: |  :----------------: | :----------------:  | :----------------:  | :----------------:  |:----------------:  |:----------------:  |
  | k진수에서 소수 개수 구하기     |             |        |       |      |          |          |          |
  | 주차 요금 계산          |           |           |     |          |        |          |          |
- | 파괴되지 않은 건물         |            |           |      |         |       |          |          |
- | 신고 결과 받기         |          |           |     |           |         |          |          |
- | 양궁대회          |          |           |      |           |         |          |          |
+ | SWEA 4008 숫자만들기         |            |           |      |         |       |          |          |
+ | SWEA 7793 오나의여신님         |          |           |     |           |         |          |          |
+ | 양궁대회 [개별]        |          |           |      |           |         |          |          |
+ | 파괴되지 않은 건물 [개별]         |          |           |      |           |         |          |          |
+ |  신고 결과 받기 [개별]        |          |           |      |           |         |          |          |
 
 
 
