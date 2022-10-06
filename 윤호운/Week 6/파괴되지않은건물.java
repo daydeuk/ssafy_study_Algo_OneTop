@@ -1,4 +1,5 @@
-// 컨닝했음
+// 못품~
+
 
 class Solution {
     
