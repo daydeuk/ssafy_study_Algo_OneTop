@@ -29,16 +29,11 @@ public class SW_4008_숫자만들기_윤호운 {
 				break;
 			}
 		}
-		//System.out.println(ans);
 		return ans;
 	}
 	//중복순열
 	public static void perm(int[] output, int depth,int[] used) {
 		if(depth==n-1) {
-//			for(int i=0;i<output.length;i++) {
-//				System.out.print(output[i] +" ");
-//			}
-			//System.out.println();
 			int ans = solve(output);
 			min = Math.min(ans, min);
 			max = Math.max(ans, max);
@@ -83,8 +78,6 @@ public class SW_4008_숫자만들기_윤호운 {
 	    	
 	    	perm(new int[n-1],0,oper);
 
-	    	
-	    	
 	    	int answer = max-min;
 	    	sb.append("#"+t+" "+answer+"\n");
 	    }
