@@ -20,15 +20,18 @@ public class SW_1952_수영장_이원석 {
         for (int t = 1; t < TC + 1; t++) {
             min_val = Integer.MAX_VALUE;
             st = new StringTokenizer(br.readLine());
+
             for (int i = 0; i < 4; i++) {
                 price[i] = Integer.parseInt(st.nextToken());
             }
 
             st = new StringTokenizer(br.readLine());
+
             for (int i = 0; i < 12; i++) {
                 int get = Integer.parseInt(st.nextToken());
                 month[i] = get;
             }
+
             dfs(0, 0);
             System.out.printf("#%d %d\n", t, min_val);
         }
