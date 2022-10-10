@@ -69,10 +69,10 @@ SWEA 문제: D3*문제번호*문제명*교육생이름.java</br>
 
 | 2022 KAKAO BLIND RECRUITMENT | 👑신대득 | 💎이원석 | ✨임지원 | 🏆정우영 | 🪐윤호운 | 🚀이동준 | 🐱‍👓고대석 |
 | :--------------------------: | :------: | :------: | :------: | :------: | :------: | :------: | :---------: |
-|  k진수에서 소수 개수 구하기  |    ✅    |    ✅    |          |    ✅    |    ✅    |    ✅    |    ✅    |
-|        주차 요금 계산        |    ✅    |    ✅    |          |    ✅    |    ✅    |    ✅    |    ✅    |
-|     SWEA 4008 숫자만들기     |    ✅    |   ✅      |          |          |    ✅    |    ✅    |    ✅    |
-|    SWEA 7793 오나의여신님    |    ✅    |    ✅      |          |          |      ✅    |    ✅    |    ✅    |
+|  k진수에서 소수 개수 구하기  |    ✅    |    ✅    |          |    ✅    |    ✅    |    ✅    |     ✅      |
+|        주차 요금 계산        |    ✅    |    ✅    |          |    ✅    |    ✅    |    ✅    |     ✅      |
+|     SWEA 4008 숫자만들기     |    ✅    |    ✅    |          |          |    ✅    |    ✅    |     ✅      |
+|    SWEA 7793 오나의여신님    |    ✅    |    ✅    |          |          |    ✅    |    ✅    |     ✅      |
 |       양궁대회 [개별]        |          |          |          |          |    ✅    |    ✅    |             |
 |  파괴되지 않은 건물 [개별]   |          |          |          |          |    🆘    |          |             |
 |    신고 결과 받기 [개별]     |          |          |          |    ✅    |    ✅    |    ✅    |             |
@@ -81,11 +81,11 @@ SWEA 문제: D3*문제번호*문제명*교육생이름.java</br>
 
 #### 7 주차
 
-| SW Expert Academy | 👑신대득 | 💎이원석 | 🏆정우영 | 🪐윤호운 | 🚀이동준 | 🐱‍👓고대석 |
-| :--------------------------: | :------: | :------: | :------: | :------: | :------: | :---------: |
-|  [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)  |        |        |          |        |        |        |        |
-|        [줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)       |        |        |          |        |        |        |        |
-|     [벽돌깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)     |        |        |          |          |        |        |        |
+|                                               SW Expert Academy                                               | 👑신대득 | 💎이원석 | 🏆정우영 | 🪐윤호운 | 🚀이동준 | 🐱‍👓고대석 |
+| :-----------------------------------------------------------------------------------------------------------: | :------: | :------: | :------: | :------: | :------: | ----------- |
+|  [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)   |          |          |          |          |          |             |
+| [줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo) |          |          |          |          |    ✅    |             |
+|   [벽돌깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)   |          |          |          |          |          |             |
 
 <br>
 
