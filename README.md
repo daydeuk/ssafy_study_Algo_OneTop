@@ -84,7 +84,7 @@ SWEA 문제: D3*문제번호*문제명*교육생이름.java</br>
 |                                               SW Expert Academy                                               | 👑신대득 | 💎이원석 | 🏆정우영 | 🪐윤호운 | 🚀이동준 | 🐱‍👓고대석 |
 | :-----------------------------------------------------------------------------------------------------------: | :------: | :------: | :------: | :------: | :------: | ----------- |
 |  [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)   |          |          |          |          |          |             |
-| [줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo) |          |          |          |      ✅    |    ✅    |             |
+| [줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo) |          |     ❌    |          |      ✅    |    ✅    |             |
 |   [벽돌깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)   |          |    ✅    |          |          |          |             |
 
 <br>
