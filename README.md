@@ -85,7 +85,7 @@ SWEA 문제: D3*문제번호*문제명*교육생이름.java</br>
 | :-----------------------------------------------------------------------------------------------------------: | :------: | :------: | :------: | :------: | :------: | ----------- |
 |  [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)   |          |          |          |          |          |             |
 | [줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo) |          |          |          |      ✅    |    ✅    |             |
-|   [벽돌깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)   |          |          |          |          |          |             |
+|   [벽돌깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)   |          |    ✅    |          |          |          |             |
 
 <br>
 
